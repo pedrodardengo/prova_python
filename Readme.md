@@ -3,6 +3,8 @@ do código que resolve os problemas propostos na prova além de informações so
 
 
 -------- Autor -------------------------------------------------------
+
+
 Meu nome é Pedro Dardengo Mesquita, graduado e mestre em física 
 pela universidade federal de viçosa. Desisti da ciência pois além 
 de estar insatisfeito com o retorno financeiro desta área, gosto
@@ -21,6 +23,8 @@ a medida que os implementava.
 
 
 ------- Código -------------------------------------------------------
+
+
 Informações gerais:
 
 - Devido as tarefas escolhidas serem de alto nível, me permiti a utilização
